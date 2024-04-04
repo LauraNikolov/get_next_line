@@ -12,6 +12,3 @@ read them in turn without ever losing the contents read on each fd, and without
 without returning the wrong line.
 You should be able to call get_next_line() once with fd 3, then 4, then
 5, then 3 again, 4 again, etc.
-
-![texte alternatif](/home/lnicolof/Downloads/success.png)
-
