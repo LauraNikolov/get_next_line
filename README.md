@@ -13,5 +13,5 @@ without returning the wrong line.
 You should be able to call get_next_line() once with fd 3, then 4, then
 5, then 3 again, 4 again, etc.
 
-![img](home/lnicolof/Downloads/success.png "success")
+/home/lnicolof/Downloads/success.png
 
