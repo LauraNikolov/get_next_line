@@ -1,4 +1,5 @@
 # GET_NEXT_LINE 
+## 42 Project
 
 Successive calls to your get_next_line() function should enable you to read the entire text file referenced by the file descriptor, one line at a time.
 - Your function should return the line just read.
@@ -12,5 +13,7 @@ read them in turn without ever losing the contents read on each fd, and without
 without returning the wrong line.
 You should be able to call get_next_line() once with fd 3, then 4, then
 5, then 3 again, 4 again, etc.
+
+Project completed and validated at 125%.
 
 ![img](success.png)
