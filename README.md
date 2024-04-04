@@ -14,6 +14,6 @@ without returning the wrong line.
 You should be able to call get_next_line() once with fd 3, then 4, then
 5, then 3 again, 4 again, etc.
 
-Project completed and validated at 125%.
+Project completed and validated at 125% in december 2023
 
 ![img](success.png)
